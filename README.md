@@ -155,3 +155,11 @@ This repository is licensed under the [MIT License](LICENSE).
 <div align="center">
   <b>⭐ If you find this architecture handbook useful, please star this repository! ⭐</b>
 </div>
+
+### Visual QA & Zero-Trust Remediation Patterns
+- [04_visual_qa_action_engine.py](examples/04_visual_qa_action_engine.py): Multimodal Action Engine for parsing visual bug telemetry.
+- [05_zero_trust_patch_validator.py](examples/05_zero_trust_patch_validator.py): Zero-trust patch validation and blast radius scoring.
+- [06_sliding_window_rate_limiter.py](examples/06_sliding_window_rate_limiter.py): Sliding window rate limiting utility.
+- [07_prometheus_telemetry_exporter.py](examples/07_prometheus_telemetry_exporter.py): OpenMetrics / Prometheus scrape exporter.
+- [VISUAL_SELF_HEALING.md](docs/VISUAL_SELF_HEALING.md): Closed-loop visual self-healing architecture.
+- [ZERO_TRUST_CODE_GEN.md](docs/ZERO_TRUST_CODE_GEN.md): Security guide for agentic code generation.
